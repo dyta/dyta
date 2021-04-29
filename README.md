@@ -1,4 +1,4 @@
 ### Hi there 👋
 
 
-![dyta github stats](https://github-readme-stats.vercel.app/api?username=dyta&show_icons=true&count_private=true&theme=vue-dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dyta&layout=compact)](https://github.com/dyta/zip-alarms-2)
